@@ -1,0 +1,27 @@
+* {
+    font-family: cursive;
+     background-image: url("ret.webp"); 
+}
+
+body {
+    text-align: center;
+
+}
+
+button {
+    background-color: white;
+    box-shadow: 0 2px 2px black;
+    font-size: larger;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+    
+@media screen and(max-width:600px) {
+    .container {
+        width:70%;
+
+    }
+}
